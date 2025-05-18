@@ -1,0 +1,5 @@
+ a {
+    text-decoration: none; /* Quita la línea */
+    color: inherit; /* Hereda el color del texto padre */
+    font-family: inherit; /* Mantiene la misma tipografía */
+  }
